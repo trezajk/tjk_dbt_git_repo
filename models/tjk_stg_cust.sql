@@ -1,0 +1,1 @@
+update raw.jaffle_shop.customers set last_name='TJK' where FIRST_NAME=Michael;
